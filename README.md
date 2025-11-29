@@ -80,10 +80,10 @@ A lifesaving mobile application that connects drivers experiencing car breakdown
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/shehan">
+  <a href="www.linkedin.com/in/shehan-joel">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:shehan@example.com">
+  <a href="mailto:shehanpeiris12344@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
